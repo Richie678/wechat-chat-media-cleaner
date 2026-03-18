@@ -1,4 +1,4 @@
-# WeChat Chat Media Cleaner
+# 微信聊天记录图片导出整理 WeChat Chat Media Cleaner
 
 一个面向 Windows 的单文件 GUI 工具，用来整理微信聊天记录相关的缓存媒体文件，支持 `.dat` 解密、图片视频筛选、缩略图清理和重复图片去重。
 
